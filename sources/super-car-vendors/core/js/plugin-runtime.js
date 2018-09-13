@@ -1,0 +1,1 @@
+/* No behaviors needed in the admin UI for this plugin yet */
